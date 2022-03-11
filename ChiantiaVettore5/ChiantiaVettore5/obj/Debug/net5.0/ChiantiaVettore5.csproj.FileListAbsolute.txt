@@ -1,0 +1,15 @@
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MarcoChiantia\ChiantiaVettore5\ChiantiaVettore5\bin\Debug\net5.0\ChiantiaVettore5.exe
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MarcoChiantia\ChiantiaVettore5\ChiantiaVettore5\bin\Debug\net5.0\ChiantiaVettore5.deps.json
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MarcoChiantia\ChiantiaVettore5\ChiantiaVettore5\bin\Debug\net5.0\ChiantiaVettore5.runtimeconfig.json
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MarcoChiantia\ChiantiaVettore5\ChiantiaVettore5\bin\Debug\net5.0\ChiantiaVettore5.runtimeconfig.dev.json
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MarcoChiantia\ChiantiaVettore5\ChiantiaVettore5\bin\Debug\net5.0\ChiantiaVettore5.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MarcoChiantia\ChiantiaVettore5\ChiantiaVettore5\bin\Debug\net5.0\ref\ChiantiaVettore5.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MarcoChiantia\ChiantiaVettore5\ChiantiaVettore5\bin\Debug\net5.0\ChiantiaVettore5.pdb
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MarcoChiantia\ChiantiaVettore5\ChiantiaVettore5\obj\Debug\net5.0\ChiantiaVettore5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MarcoChiantia\ChiantiaVettore5\ChiantiaVettore5\obj\Debug\net5.0\ChiantiaVettore5.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MarcoChiantia\ChiantiaVettore5\ChiantiaVettore5\obj\Debug\net5.0\ChiantiaVettore5.AssemblyInfo.cs
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MarcoChiantia\ChiantiaVettore5\ChiantiaVettore5\obj\Debug\net5.0\ChiantiaVettore5.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MarcoChiantia\ChiantiaVettore5\ChiantiaVettore5\obj\Debug\net5.0\ChiantiaVettore5.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MarcoChiantia\ChiantiaVettore5\ChiantiaVettore5\obj\Debug\net5.0\ref\ChiantiaVettore5.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MarcoChiantia\ChiantiaVettore5\ChiantiaVettore5\obj\Debug\net5.0\ChiantiaVettore5.pdb
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-MarcoChiantia\ChiantiaVettore5\ChiantiaVettore5\obj\Debug\net5.0\ChiantiaVettore5.genruntimeconfig.cache
